@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanay Sahajwalla</h1>
 <h3 align="center">Passionate Tech Enthusiast Innovates with Apps, Websites, and Large Language Model (LLM)</h3>
+img align="right" alt="Coding" width="400"src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay1805&label=Profile%20views&color=0e75b6&style=flat" alt="tanay1805" /> </p>
 
