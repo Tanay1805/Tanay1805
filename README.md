@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **Amber**.
 
-⚡ I am also interested in **Web Development**, **Machine Learning**, **AI** and in **Augmented Reality** ****.
+⚡ I am also interested in **Web Development**, **Machine Learning**, **AI** and in **Augmented Reality** .
 
  </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
